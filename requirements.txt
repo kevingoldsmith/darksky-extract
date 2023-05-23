@@ -12,7 +12,7 @@ mccabe==0.6.1
 multidict==4.7.5
 pylint==2.6.0
 pytz==2019.1
-requests==2.21.0
+requests==2.31.0
 six==1.14.0
 toml==0.10.1
 typed-ast==1.4.1
